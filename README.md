@@ -1,4 +1,4 @@
 # Code-Reloded
 This is my first Git Resporiatry
-\n
+<br>
 Author-Satya Vinayak
